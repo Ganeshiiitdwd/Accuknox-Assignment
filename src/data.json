@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "widgets": [
+        {
+          "id": 101,
+          "name": "Widget 101",
+          "text": "This is a widget text."
+        },
+        {
+          "id": 102,
+          "name": "Widget 102",
+          "text": "This is another widget text."
+        },
+        {
+          "id": 107,
+          "name": "Widget 107",
+          "text": "This is a widget text."
+        },
+        {
+          "id": 110,
+          "name": "Widget 110",
+          "text": "This is a widget text."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "widgets": [
+        {
+          "id": 103,
+          "name": "Widget 103",
+          "text": "This is a widget text."
+        },
+        {
+          "id": 104,
+          "name": "Widget 104",
+          "text": "This is another widget text."
+        },
+        {
+          "id": 108,
+          "name": "Widget 108",
+          "text": "This is another widget text."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "widgets": [
+        {
+          "id": 105,
+          "name": "Widget 105",
+          "text": "This is a widget text."
+        },
+        {
+          "id": 106,
+          "name": "Widget 106",
+          "text": "This is another widget text."
+        },
+        {
+          "id": 109,
+          "name": "Widget 109",
+          "text": "This is another widget text."
+        }
+      ]
+    }
+  ]
+}
