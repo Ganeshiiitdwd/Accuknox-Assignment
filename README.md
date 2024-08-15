@@ -2,7 +2,7 @@
 # Assignment Project
 
 This is a React project that uses various dependencies including `react-slick` for carousels and `tailwindcss` for styling.
-
+##To see how the webpage looks like you can see the attached png image 
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
